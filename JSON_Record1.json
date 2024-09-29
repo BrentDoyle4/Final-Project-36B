@@ -1,0 +1,19 @@
+{
+	"thing_1" : 
+	{
+		"type" : "Android Device"
+	},
+	"when" : 
+	{
+		"time" : "2023-04-12T18:00:00+0000"
+	},
+	"where" : 
+	{
+		"place" : "Room 176 of Everson Hall"
+	},
+	"who_1" : 
+	{
+		"description" : "Instructor",
+		"name" : "Felix"
+	}
+}
